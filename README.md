@@ -6,4 +6,5 @@ https://www.kaggle.com/shivam2503/diamonds
 ## Results
 
 Mean Absolute Error: 402
+
 R2: 0.9764
